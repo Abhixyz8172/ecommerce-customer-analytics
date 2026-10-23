@@ -1,0 +1,4 @@
+order_status,order_lines,order_value
+Cancelled,155,11621.289999999999
+Completed,2346,171118.5
+Returned,99,5902.91
